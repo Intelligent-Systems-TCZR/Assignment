@@ -1,0 +1,5 @@
+train: ../Assignment/train/images
+val: ../Assignment/valid/images
+
+nc: 1
+names: ['human']
